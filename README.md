@@ -19,3 +19,5 @@ As a proven and passionate data scientist, I have experience in developing and i
 ## Projects
 ### Project 1: Visualization
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Visualization_by_Sophia.ipynb)
+
+![](/images/sophia-project1.jpg)
