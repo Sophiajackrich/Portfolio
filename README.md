@@ -26,3 +26,7 @@ This project was carried out with Matplotlib and season. So many features were v
 
 ### Project 2: Attrition 
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Sophia's_Attrition_project.ipynb)
+
+Exploration data analysis was performed, and the insight of the attrition dataset was well explore.
+
+![](/images/sophia-project2.png)
