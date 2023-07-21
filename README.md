@@ -30,3 +30,9 @@ This project was carried out with Matplotlib and season. So many features were v
 Exploration data analysis was performed, and the insight of the attrition dataset was well explore.
 
 ![](/images/sophia-project2.png)
+
+### Project 3: SQL
+[Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/SQL_Assignment_2.ipynb)
+
+![](/images/sophia-project3.png)
+
