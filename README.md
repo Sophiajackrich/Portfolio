@@ -20,4 +20,9 @@ As a proven and passionate data scientist, I have experience in developing and i
 ### Project 1: Visualization
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Visualization_by_Sophia.ipynb)
 
-![](/images/sophia-project1.jpg)
+This project was carried out with Matplotlib and season. So many features were visualised and the insight of the data was well explored.
+
+![](/images/sophia-project1.png)
+
+### Project 2: Attrition 
+[Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Sophia's_Attrition_project.ipynb)
