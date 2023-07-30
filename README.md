@@ -18,7 +18,9 @@ As a proven and passionate data scientist, I have experience in developing and i
 
 ## Projects
 ### Project 1: Loan Prediction App Project
-My team and I developed a loan prediction data science app that evaluates if an applicant is eligible for approval or not. Python libraries such as Pandas, Numpy, Matplotlib, Sklearn were used. For the model The Random Forest and Linear Regression were also used. The FastApi app model was used to create the app. 
+[Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/loan%20app%20prediction%204.ipynb)
+
+My team and I developed a loan prediction data science app that evaluates if an applicant is eligible for approval or not. Python libraries such as Pandas, Numpy, Matplotlib, Sklearn were used. For the model The Random Forest and Linear Regression were also used. The FastApi app model was used to create the app.
 
 ### Project 2: Visualization
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Visualization_by_Sophia.ipynb)
