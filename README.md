@@ -1,4 +1,4 @@
-# Data Scientish
+# Data Scientist
 
 ## Professional summary
 As a proven and passionate data scientist, I have experience in developing and implementing recommender system models, predictive models, conducting statistical analyses, and creating visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
@@ -18,7 +18,7 @@ As a proven and passionate data scientist, I have experience in developing and i
 
 ## Projects
 ### Project 1: Loan Prediction App Project
-My team and I developed a loan predition data science app that evaluates if an applicant is eligible for approval or not. Python libraries such as Pandas, Numpy, Matplotlib, Sklearn were used. For the model The Random Forest and Linear Regression were also used. The FastApi app model was used to create the app. 
+My team and I developed a loan prediction data science app that evaluates if an applicant is eligible for approval or not. Python libraries such as Pandas, Numpy, Matplotlib, Sklearn were used. For the model The Random Forest and Linear Regression were also used. The FastApi app model was used to create the app. 
 
 ### Project 2: Visualization
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Visualization_by_Sophia.ipynb)
