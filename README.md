@@ -11,27 +11,30 @@ As a proven and passionate data scientist, I have experience in developing and i
 
 - ## Work Experience
 **Data science intern @ Stutern (_May 2023 - Present_)**
-- Built a recommendation system model for a meal app.
-- The model built was deployed using FLASKAPI.
+- Developed a loan prediction model.
+- The model built was deployed using FASTAPI.
 - Built a salary prediction model.
 - Did a sentiment analysis on a skincare product review.
 
 ## Projects
-### Project 1: Visualization
+### Project 1: Loan Prediction App Project
+My team and I developed a loan predition data science app that evaluates if an applicant is eligible for approval or not. Python libraries such as Pandas, Numpy, Matplotlib, Sklearn were used. For the model The Random Forest and Linear Regression were also used. The FastApi app model was used to create the app. 
+
+### Project 2: Visualization
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Visualization_by_Sophia.ipynb)
 
 This project was carried out with Matplotlib and season. So many features were visualised and the insight of the data was well explored.
 
 ![](/images/sophia-project1.png)
 
-### Project 2: Attrition 
+### Project 3: Attrition 
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/Sophia's_Attrition_project.ipynb)
 
 Exploration data analysis was performed, and the insight of the attrition dataset was well explore.
 
 ![](/images/sophia-project2.png)
 
-### Project 3: SQL
+### Project 4: SQL
 [Publication](https://github.com/Sophiajackrich/Stutern-repo/blob/main/SQL_Assignment_2.ipynb)
 
 ![](/images/sophia-project3.png)
