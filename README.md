@@ -4,7 +4,7 @@
 As a proven and passionate data scientist, I derive joy through using my data experience in creating insights, developing and implementing recommender system models, predictive models, data researcher, conducting statistical analyses, and creating visualizations to communicate structured and unstructured data insight and in all, i aim at making beneficial decisions with all these tools. I'm always open to new ideas and ways I can improve, and become a professional and sound data scientist.
 
 #### Technical skills: 
-*Python*, *SQL*, *MYSQL*, *Scikit-learn*, *Pandas*, *Joblib*, *NLP*, *PowerBI*, *Machine Learning*, *Recommendation System*, *Data wrangling*, *Seaborn*, *Beautiful soup*, *Data visualization*, *Problem-solving*, *Communication*, *Leadership/Team Role*.
+##### *Python*, *SQL*, *MYSQL*, *Scikit-learn*, *Pandas*, *Joblib*, *NLP*, *PowerBI*, *Machine Learning*, *Recommendation System*, *Data wrangling*, *Seaborn*, ##### *Beautiful soup*, *Data visualization*, *Problem-solving*, *Communication*, *Leadership/Team Role*.
 
 
 ## Projects
