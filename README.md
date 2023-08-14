@@ -54,7 +54,9 @@ This analysis shows different employees features(name, salary and department nam
 ##### Credly Certification in Applied Data Science lab @ WorldQuant University(_August 2023_)
 ##### Certicate, Data science | Stutern Graduate Accelerator (_April 2023_)
 
+
 ## Trainee Experience
+
 ##### **Data Science Trainee @ Stutern (_May 2023 - Present_)**
 As a Data Science trainee at Stutern, some of my duties include: 
 1. Learning Data Science concepts such as Data Cleaning, Data Exploration, Data Visualization, Data Analysis and Machine Learning.
