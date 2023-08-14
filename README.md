@@ -26,6 +26,7 @@ Python libraries such as Pandas, Numpy, Matplotlib, Sklearn were used. For the m
 I analyzed and derived insight from exploring this data of Array A against Array B.
 This was done by creating a mock dataset of Array A and Array B, performed data cleaning by checking if there were duplicates and incorrect data.
 Lastly, i explored the data by using the essential tools of Matplotlib and Seaborn.
+
 ![](/images/sophia-project1.png)
 
 ### Project 3: Analysis of an Attrition Project
@@ -35,6 +36,7 @@ Lastly, i explored the data by using the essential tools of Matplotlib and Seabo
 
 In this project, i extracted data from my stutern class site on the attrition of employees which contained over 30 features of the employees.
 This was done with the aim of extracting information on why employees leave or resign from the company without the company getting their replacements.
+
 ![](/images/sophia-project2.png)
 
 ### Project 4: SQL
@@ -44,6 +46,7 @@ This was done with the aim of extracting information on why employees leave or r
 
 The analysis here, was performed using the experience of 'SQL' knowledge developed from my time with Stutern company. 
 This analysis shows different employees features(name, salary and department name) with the aim of using a 'Cross-Join' to find the all employees working in 'IT' and 'Sales' department.
+
 ![](/images/sophia-project3.png)
 
 ## Education
